@@ -1,4 +1,4 @@
-Simple Router)
+Simple Router
 ====================================
 
 For more detailed information about the project and starter code, refer to the project description on CCLE.
